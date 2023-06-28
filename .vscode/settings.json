@@ -1,0 +1,3 @@
+{
+    "solidity.packageDefaultDependenciesDirectory": "./bridge/node_modules"
+}
